@@ -1,7 +1,7 @@
 # Logical-calculator-matlab
 
 ## Overview
-CalcSaurav is a MATLAB-based calculator app designed to perform a variety of arithmetic and bitwise operations. This app allows users to input two numbers and select an operation from the provided options, including addition, subtraction, multiplication, division, exponentiation, bitwise AND, bitwise OR, bitwise XOR, and equality comparison. The result is displayed in the output panel.<br>
+CalcMB is a MATLAB-based calculator app designed to perform a variety of arithmetic and bitwise operations. This app allows users to input two numbers and select an operation from the provided options, including addition, subtraction, multiplication, division, exponentiation, bitwise AND, bitwise OR, bitwise XOR, and equality comparison. The result is displayed in the output panel.<br>
 ![Calculator](/calc-ui.png)
 ## Features
 ### Arithmetic Operations:
