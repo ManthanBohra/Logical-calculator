@@ -1,8 +1,9 @@
-# Logical-calculator-matlab
+![CalcMB](https://github.com/user-attachments/assets/8994a864-fadd-4340-8a38-65c59cce6e98)# Logical-calculator-matlab
 
 ## Overview
 CalcMB is a MATLAB-based calculator app designed to perform a variety of arithmetic and bitwise operations. This app allows users to input two numbers and select an operation from the provided options, including addition, subtraction, multiplication, division, exponentiation, bitwise AND, bitwise OR, bitwise XOR, and equality comparison. The result is displayed in the output panel.<br>
-![Calculator](/calc-ui.png)
+![Calculator](![CalcMB](https://github.com/user-attachments/assets/f1320da0-6114-4bf2-90e5-f38f743a3c94)
+)
 ## Features
 ### Arithmetic Operations:
 
