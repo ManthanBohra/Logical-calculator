@@ -27,7 +27,7 @@ CalcMB is a MATLAB-based calculator app designed to perform a variety of arithme
 - Launch MATLAB on your system.
 - Run the App:
 
-- Open the calcsaurav.m file in MATLAB.
+- Open the calcMB.m file in MATLAB.
 - Click the "Run" button or type calcsaurav in the command window.
 ## Using the App:
 
