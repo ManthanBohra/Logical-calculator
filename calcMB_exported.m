@@ -1,4 +1,4 @@
-classdef calcsaurav_exported < matlab.apps.AppBase
+classdef calcMB_1 < matlab.apps.AppBase
 
     % Properties that correspond to app components
     properties (Access = public)
